@@ -13,9 +13,10 @@ COVID-19 Spread Prevention using Computer Vision and Deep Learning
 #### Social Distance Detection
 
 The Detection will take place in 3 different ways - 
-Red - More than 3 people are together.
-Yellow - 2 people are together
-Green - Safe Zone
+
+Red 
+Yellow 
+Green 
 
 <img src="https://user-images.githubusercontent.com/67967781/138292103-855aa610-5380-43a3-a65c-27c540ed485d.png" width="700" height ="450"> 
 
