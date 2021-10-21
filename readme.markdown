@@ -22,9 +22,9 @@ Green  - Represents individual people who are in Safer Zone.
 
 <!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
  -->
- 
+<!--  
  The Training Accuracy is as follows. The training of the Dataset was done on Tesla T100 GPU.
-<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="400" height ="400">
+<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="400" height ="400"> -->
  
  Dashboard 
  
