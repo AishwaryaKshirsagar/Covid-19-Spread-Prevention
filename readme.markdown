@@ -12,7 +12,8 @@ COVID-19 Spread Prevention using Computer Vision and Deep Learning
 
 #### Sample Images
 
-|<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="200">|
+The Training Score that we achieved - 
+|<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="250" height ="200">|
 <!-- <img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/37.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/13.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/32.jpg" width="200">|
   -->
 <!-- ![image](https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png)
