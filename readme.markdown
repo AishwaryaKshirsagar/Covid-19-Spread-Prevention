@@ -55,11 +55,11 @@ Submissions are evaluated on Innovation, Accuracy and Real time Application.
 | `tensorflow` | `2.5.0`|
 | `keras`      | `2.5.0`|
 | `matplotlib` | `0.22.2.post1`|
-| 'YOLOv4' |
-|'OpenCV'|
-|'HTML'|
-|'CSS'|
-|'Flask'|
+| `YOLOv4`  |Version 4|
+|`OpenCV`|
+|`HTML`|
+|`CSS`|
+|`Flask`|
 
 | Enviroment | Used|
 | :-------- | :------- |
