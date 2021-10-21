@@ -13,11 +13,23 @@ COVID-19 Spread Prevention using Computer Vision and Deep Learning
 #### Sample Images
 
 The Training Score that we achieved - 
-|<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="250" height ="200">|
-<!-- <img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/37.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/13.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/32.jpg" width="200">|
+
+<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="250" height ="200">
+
+<img src="https://user-images.githubusercontent.com/67967781/138292103-855aa610-5380-43a3-a65c-27c540ed485d.png" width="200"> 
+
+<img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="200">
+
+
+
+<!-- !<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/32.jpg" width="200">|
   -->
 <!-- ![image](https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png)
  -->
+ <!--  ![image](https://user-images.githubusercontent.com/67967781/138292127-e1be2615-5a9e-4c72-badf-106acc1a9020.png)
+ -->
+ 
+ 
 
 The dataset will contain the following:
 
