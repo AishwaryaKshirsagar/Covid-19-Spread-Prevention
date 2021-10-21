@@ -18,7 +18,7 @@ Red
 Yellow 
 Green 
 
-<img src="https://user-images.githubusercontent.com/67967781/138292103-855aa610-5380-43a3-a65c-27c540ed485d.png" width="700" height ="450"> 
+<img src="https://user-images.githubusercontent.com/67967781/138292103-855aa610-5380-43a3-a65c-27c540ed485d.png" width="700" height ="350"> 
 
 <!-- <img src="https://user-images.githubusercontent.com/67967781/138293539-a829234d-80ab-4634-92d4-cbf392405f9b.png" width="300" height ="500">
  -->
