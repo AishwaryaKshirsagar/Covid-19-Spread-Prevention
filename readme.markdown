@@ -1,6 +1,6 @@
 # India Academia Connect AI Hackathon
-* `Goal` → Identify the presence of a character in images using Convolutional Neural Networks.
-* `Score` → Accuracy 98%
+* `Goal` → COVID-19 Spread Prevention
+* `Training Score` → Accuracy 98%
 * `Team` → Data Pirates🏴‍☠️
 
 __GO TO:__  [`Problem Description`](#ProblemDescription) 
@@ -8,18 +8,23 @@ __GO TO:__  [`Problem Description`](#ProblemDescription)
 
 ---
 ## Problem Description
-The input dataset will consist of images containing Hindi characters. The challenge is to identify the presence of a character in images using Convolutional Neural Networks.
+COVID-19 Spread Prevention using Computer Vision and Deep Learning
 
 #### Sample Images
-|Class: 1|Class: 0|Class: 1|Class: 0|
-|:-:|:-:|:-:|:-:|
-|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/1.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/37.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/13.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/32.jpg" width="200">|
+
+|<img src="https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png" width="200">|
+<!-- <img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/37.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/13.jpg" width="200">|<img src="https://github.com/DarkstarDream/Nvidia-Hindi/blob/master/Data/test/test/32.jpg" width="200">|
+  -->
+<!-- ![image](https://user-images.githubusercontent.com/67967781/138261722-d913bc80-23fb-4b26-96f4-3d921cce8e73.png)
+ -->
 
 The dataset will contain the following:
 
-* Train Dataset: Consists of sample reference sets which can be used by participants to train the Convolution Neural Network. The participants are recommended to use their own training dataset if required. 
-* Test Dataset: The test dataset will contain the images to be classified and results to be submitted in the form of a JSON file. More details on the JSON format and a sample provided as part of the dataset.
-Submissions are evaluated on Accuracy Score between the predicted and the actual labels on the test dataset.
+Train Dataset:
+* Model 1 - Face Mask Detection : Kaggle Face Mask Detection Dataset(https://www.kaggle.com/andrewmvd/face-mask-detection) 
+* Model 2 - Social Distsnce Detection : Used MS-COCO Dataset to train the model to detect person category from other 80 Categories of COCO.
+
+Submissions are evaluated on Innovation, Accuracy and Real time Application.
 
 
 [__More Details__](https://gpuhackathons.org/index.php/event/india-academia-connect-ai-hackathon)
@@ -37,11 +42,16 @@ Submissions are evaluated on Accuracy Score between the predicted and the actual
 | `tensorflow` | `2.5.0`|
 | `keras`      | `2.5.0`|
 | `matplotlib` | `0.22.2.post1`|
+| 'YOLOv4' |
+|'OpenCV'|
+|'HTML'|
+|'CSS'|
+|'Flask'|
 
 | Enviroment | Used|
 | :-------- | :------- |
 | `Editor`  |`JupyterLab`| 
-| `Runtime type` | `CPU`|
+| `Runtime type` | `CPU`| |'GPU'|
 
 
 ## Team Members
@@ -49,5 +59,5 @@ __`Data Pirates🏴‍☠️ (Our Team Name)`__
 |Members|
 |:-|
 |[Animesh Singh](https://github.com/animeshdebug7)|
-|[Aishwarya Kshirsagar](https://github.com/AishwaryaKshirsagar)| 
-|[Darkstar](https://github.com/DarkstarDream) (me)| 
+|[Aishwarya Kshirsagar](https://github.com/AishwaryaKshirsagar)(me)| 
+|[Darkstar](https://github.com/DarkstarDream)| 
