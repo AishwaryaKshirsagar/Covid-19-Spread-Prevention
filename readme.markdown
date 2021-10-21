@@ -28,7 +28,7 @@ Green  - Represents individual people who are in Safer Zone.
  
  Dashboard 
  
- <img src="https://user-images.githubusercontent.com/67967781/138295712-d269c5d1-0fb1-4b6e-b3f0-80fdef1ca6ab.png" width="200" height ="200"><img src="https://user-images.githubusercontent.com/67967781/138295803-22f6aa87-9d7f-4483-b5b8-40ab29eaaef1.png" width="200" height ="200"><img src="https://user-images.githubusercontent.com/67967781/138295867-4d26fd85-81e6-49fa-bb50-91338b28f14b.png" width="200" height ="200">
+ <img src="https://user-images.githubusercontent.com/67967781/138295712-d269c5d1-0fb1-4b6e-b3f0-80fdef1ca6ab.png" width="260" height ="260"><img src="https://user-images.githubusercontent.com/67967781/138295803-22f6aa87-9d7f-4483-b5b8-40ab29eaaef1.png" width="260" height ="260"><img src="https://user-images.githubusercontent.com/67967781/138295867-4d26fd85-81e6-49fa-bb50-91338b28f14b.png" width="260" height ="260">
 
 
 The dataset will contain the following:
