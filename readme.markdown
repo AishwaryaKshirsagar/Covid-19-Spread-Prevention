@@ -1,4 +1,4 @@
-# India Academia Connect AI Hackathon
+# India Academia Connect and Nvidia AI Hackathon
 * `Goal` → COVID-19 Spread Prevention
 * `Training Score` → Accuracy 98%
 * `Team` → Data Pirates🏴‍☠️
