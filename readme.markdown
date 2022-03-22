@@ -1,3 +1,5 @@
+## Please visit my Portfolio website to get detailed explanation - [Covid 19 Spread Prevention](https://aishwaryakshirsagar.github.io/Portfolio_Website/post/chapter-5/)
+
 # India Academia Connect and Nvidia AI Hackathon
 * `Goal` → COVID-19 Spread Prevention
 * `Training Score` → Accuracy 98%
