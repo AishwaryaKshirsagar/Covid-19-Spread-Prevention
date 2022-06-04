@@ -41,7 +41,6 @@ Train Dataset:
 
 Submissions are evaluated on Innovation, Accuracy and Real time Application.
 
-## Problem Description
 
 In recent years covid has affected our lives in a very negative way. It took the lives of many of our loved ones; many people lost their parents, children, or relatives. Not to mention our superheroes (police, doctors) who have also lost their lives while serving our country.
 
