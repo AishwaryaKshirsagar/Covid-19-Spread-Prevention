@@ -1,9 +1,28 @@
 ## Please visit my Portfolio website to get detailed explanation - [Covid 19 Spread Prevention](https://aishwaryakshirsagar.github.io/Portfolio_Website/post/chapter-5/)
 
+
+In recent years covid has affected our lives in a very negative way. It took the lives of many of our loved ones; many people lost their parents, children, or relatives. Not to mention our superheroes (police, doctors) who have also lost their lives while serving our country.
+
+Covid not only took millions of lives, but it has also had an impact on many people's lifestyles and businesses; many are in severe debt, and many have had to close their doors.
+
+To address this issue, we must first halt the spread of covid. This can be accomplished with great efficiency by utilizing AI and machine learning.
+
+
 # India Academia Connect and Nvidia AI Hackathon
 * `Goal` → COVID-19 Spread Prevention
 * `Training Score` → Accuracy 98%
 * `Team` → Data Pirates🏴‍☠️
+
+<details><summary><b>Quick Summary</b></summary>
+
+|                     |                                                                                                         |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Features**        | Mask Detection, Social Distacing detection, Dashboard of violation trend, Alert Email and Annocuncement |
+| **Input**           | Camera Footage                                                                                          |
+| **Performance**     | ~3FPS on i3 cpu and around ~30FPS on decent GPU (not tested)                                            |
+| **Technology Used** | Opencv, yolov4, resnet, tensorflow                                                                      |
+
+</details>
 
 __GO TO:__  [`Problem Description`](#ProblemDescription) 
 [`Library Used`](#Requirements) [`Team Member`](#Team-members)
@@ -17,7 +36,9 @@ COVID-19 Spread Prevention using Computer Vision and Deep Learning
 The Detection will take place in 3 different ways - 
 
 Red - Represents many people are violating Social Distance(Threshold can be set accordingly).
+
 Yellow - Represents 2 people are together.
+
 Green  - Represents individual people who are in Safer Zone.
 
 <img src="https://user-images.githubusercontent.com/67967781/138292103-855aa610-5380-43a3-a65c-27c540ed485d.png" width="700" height ="350"> 
@@ -41,12 +62,6 @@ Train Dataset:
 
 Submissions are evaluated on Innovation, Accuracy and Real time Application.
 
-
-In recent years covid has affected our lives in a very negative way. It took the lives of many of our loved ones; many people lost their parents, children, or relatives. Not to mention our superheroes (police, doctors) who have also lost their lives while serving our country.
-
-Covid not only took millions of lives, but it has also had an impact on many people's lifestyles and businesses; many are in severe debt, and many have had to close their doors.
-
-To address this issue, we must first halt the spread of covid. This can be accomplished with great efficiency by utilizing AI and machine learning.
 
 ## Project Overview
 
