@@ -17,10 +17,10 @@ To address this issue, we must first halt the spread of covid. This can be accom
 
 |                     |                                                                                                         |
 | ------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Features**        | Mask Detection, Social Distacing detection, Dashboard of violation trend, Alert Email and Annocuncement |
+| **Features**        | Mask Detection, Social Distacing detection, Dashboard of violation trend, Alert Email and Announcement |
 | **Input**           | Camera Footage                                                                                          |
 | **Performance**     | ~3FPS on i3 cpu and around ~30FPS on decent GPU (not tested)                                            |
-| **Technology Used** | Opencv, yolov4, resnet, tensorflow                                                                      |
+| **Technology Used** | Opencv, yolov4, mobilenet, tensorflow                                                                      |
 
 </details>
 
